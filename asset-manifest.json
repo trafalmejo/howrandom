@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/howrandom/static/css/main.b100e6da.chunk.css",
+    "main.js": "/howrandom/static/js/main.6cc493d6.chunk.js",
+    "main.js.map": "/howrandom/static/js/main.6cc493d6.chunk.js.map",
+    "runtime-main.js": "/howrandom/static/js/runtime-main.fb2b7363.js",
+    "runtime-main.js.map": "/howrandom/static/js/runtime-main.fb2b7363.js.map",
+    "static/js/2.8bef6599.chunk.js": "/howrandom/static/js/2.8bef6599.chunk.js",
+    "static/js/2.8bef6599.chunk.js.map": "/howrandom/static/js/2.8bef6599.chunk.js.map",
+    "index.html": "/howrandom/index.html",
+    "precache-manifest.051b62ffc7960a7e5f41406b99d6ea04.js": "/howrandom/precache-manifest.051b62ffc7960a7e5f41406b99d6ea04.js",
+    "service-worker.js": "/howrandom/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/howrandom/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/howrandom/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb2b7363.js",
+    "static/js/2.8bef6599.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.6cc493d6.chunk.js"
+  ]
+}
